@@ -1,0 +1,17 @@
+{
+  "name": "hello-mastra",
+  "module": "src/index.ts",
+  "type": "module",
+  "scripts": {
+    "dev": "npx tsx --env-file=.env src/index.ts"
+  },
+  "devDependencies": {
+    "@mastra/core": "^0.1.27-alpha.9",
+    "@types/bun": "latest",
+    "@types/node": "^22.9.3",
+    "tsx": "^4.19.2"
+  },
+  "peerDependencies": {
+    "typescript": "^5.7.2"
+  }
+}
