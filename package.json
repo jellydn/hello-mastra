@@ -6,6 +6,7 @@
     "dev": "npx tsx --env-file=.env src/index.ts"
   },
   "devDependencies": {
+    "@biomejs/biome": "1.9.4",
     "@mastra/core": "^0.1.27-alpha.9",
     "@types/bun": "latest",
     "@types/node": "^22.9.3",
