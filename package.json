@@ -7,10 +7,10 @@
 	},
 	"devDependencies": {
 		"@biomejs/biome": "1.9.4",
-		"@mastra/core": "^0.1.27-alpha.9",
+		"@mastra/core": "0.1.27-alpha.9",
 		"@types/bun": "latest",
-		"@types/node": "^22.9.3",
-		"tsx": "^4.19.2"
+		"@types/node": "22.9.3",
+		"tsx": "4.19.2"
 	},
 	"peerDependencies": {
 		"typescript": "^5.7.2"
