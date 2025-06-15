@@ -10,7 +10,7 @@
 		"@mastra/core": "0.10.5",
 		"@types/bun": "latest",
 		"@types/node": "22.15.31",
-		"tsx": "4.20.1"
+		"tsx": "4.20.3"
 	},
 	"peerDependencies": {
 		"typescript": "^5.7.2"
