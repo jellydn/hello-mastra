@@ -9,7 +9,7 @@
 		"@biomejs/biome": "1.9.4",
 		"@mastra/core": "0.24.7",
 		"@types/bun": "latest",
-		"@types/node": "22.19.2",
+		"@types/node": "24.10.2",
 		"tsx": "4.21.0"
 	},
 	"peerDependencies": {
