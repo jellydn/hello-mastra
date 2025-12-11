@@ -7,7 +7,7 @@
 	},
 	"devDependencies": {
 		"@biomejs/biome": "1.9.4",
-		"@mastra/core": "0.24.7",
+		"@mastra/core": "0.24.8",
 		"@types/bun": "latest",
 		"@types/node": "22.19.2",
 		"tsx": "4.21.0"
